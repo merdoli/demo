@@ -1,14 +1,25 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"data" :[{
+  "id": 1544650527394,
+  "title": "Mert",
+  "calories": 450
+}, {
+  "id": 1544650652318,
+  "title": "Joe",
+  "calories": 200
+}, {
+  "id": 1544651367407,
+  "title": "Mert Bekar",
+  "calories": 400
+}, {
+  "id": 1544750699549,
+  "title": "Adults",
+  "calories": 700
+}, {
+  "id": 1545528843441,
+  "title": "Tommy",
+  "calories": 250
+}, {
+  "id": 1545529017621,
+  "title": "Malcolm",
+  "calories": 500
+}]}
